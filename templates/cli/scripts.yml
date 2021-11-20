@@ -1,0 +1,6 @@
+scripts:
+  start:
+    desc: Run CLI package
+    cmd: deno run ./cli.ts
+    imap: imports.json
+    unstable: true
