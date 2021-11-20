@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "@deps": "./deps.ts",
+    "cliffy": "https://x.nest.land/cliffy@0.20.1/mod.ts"
+  }
+}

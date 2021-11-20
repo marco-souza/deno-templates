@@ -1,0 +1,16 @@
+{
+  "deno.enable": true,
+  "deno.lint": true,
+  "deno.unstable": true,
+  "deno.suggest.imports.autoDiscover": true,
+  "deno.suggest.autoImports": true,
+  "deno.codeLens.implementations": true,
+  "deno.suggest.paths": true,
+  "deno.suggest.names": true,
+  "deno.suggest.imports.hosts": {
+    "https://deno.land": true,
+    "https://x.nest.land": true
+  },
+  "deno.importMap": "./imports.json",
+  "deno.config": "./deno.jsonc"
+}
