@@ -1,0 +1,12 @@
+#+TITLE: Deno project templates
+
+Repository with some deno project templates.
+
+* Templates
+
+- [[./templates/base][base]]
+- [[./templates/cli][cli]]
+
+** Issues
+
+- `vscode deno ext` / `deno-lsp` doesn't suggests imports from `import_map`
