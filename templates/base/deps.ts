@@ -1,1 +1,1 @@
-export { Command } from "cliffy";
+export { bgBlue } from "colors";

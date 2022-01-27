@@ -1,6 +1,5 @@
 scripts:
   start:
     desc: Start package
-    cmd: deno run ./mod.ts
+    cmd: ./mod.ts
     imap: ./imports.json
-    unstable: true

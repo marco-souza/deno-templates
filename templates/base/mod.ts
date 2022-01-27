@@ -1,1 +1,3 @@
-import { Command } from "@deps";
+import { bgBlue } from "~deps";
+
+console.log(bgBlue("Hello colors"));
