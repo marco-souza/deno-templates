@@ -1,4 +1,4 @@
-import { Middleware } from "~deps";
+import { Middleware } from "@deps";
 
 const loggingMiddleware: Middleware = async (ctx, next) => {
   await next();

@@ -1,4 +1,4 @@
-import { applyGraphQL, Context, gql, GQLError, Router } from "~deps";
+import { applyGraphQL, Context, gql, GQLError, Router } from "@deps";
 
 const types = gql`
   type User {

@@ -1,5 +1,5 @@
-import { Application, Router } from "~deps";
-import { port, hostname } from "~settings";
+import { Application, Router } from "@deps";
+import { port, hostname } from "@settings";
 import { denoHandler, rootHandler } from "./handlers.ts";
 import { middlewares } from "./middlewares.ts";
 

@@ -1,4 +1,4 @@
-import { Context } from "~deps";
+import { Context } from "@deps";
 
 export const rootHandler = (ctx: Context) => {
   ctx.response.body = "Hello world!";

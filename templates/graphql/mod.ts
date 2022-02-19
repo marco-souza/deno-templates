@@ -1,5 +1,5 @@
-import { Application } from "~deps";
-import { startServer } from "~cmd/server.ts";
+import { Application } from "@deps";
+import { startServer } from "@cmd/server.ts";
 
 const app = new Application();
 

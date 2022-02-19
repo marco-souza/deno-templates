@@ -1,5 +1,5 @@
-import { Application, Router } from "~deps";
-import { port, hostname } from "~settings";
+import { Application } from "@deps";
+import { port, hostname } from "@settings";
 
 import { graphqlServiceRouter } from "./graphql.ts";
 import { middlewares } from "./middlewares.ts";
