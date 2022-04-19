@@ -2,11 +2,9 @@ scripts:
   cli:
     desc: Call CLI
     cmd: ./mod.ts
-    imap: ./imports.json
     unstable: true
 
   custom-cli:
     desc: Call CLI with custom param
     cmd: ./mod.ts -n deno
-    imap: ./imports.json
     unstable: true

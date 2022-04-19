@@ -1,1 +1,0 @@
-export { bgBlue } from "colors";

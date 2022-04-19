@@ -1,4 +1,4 @@
-import { Application } from "@deps";
+import { Application } from "oak";
 import { startServer } from "@cmd/server.ts";
 
 const app = new Application();

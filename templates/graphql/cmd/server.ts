@@ -1,4 +1,4 @@
-import { Application } from "@deps";
+import { Application } from "oak";
 import { port, hostname } from "@settings";
 
 import { graphqlServiceRouter } from "./graphql.ts";

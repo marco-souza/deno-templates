@@ -1,7 +1,6 @@
 {
   "imports": {
     "@cmd/": "./cmd/",
-    "@deps": "./deps.ts",
     "@settings": "./settings.ts",
     "oak": "https://deno.land/x/oak@v10.1.0/mod.ts",
     "oak-graphql": "https://deno.land/x/oak_graphql@0.6.3/mod.ts"

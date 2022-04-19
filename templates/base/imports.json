@@ -1,6 +1,5 @@
 {
   "imports": {
-    "@deps": "./deps.ts",
-    "colors": "https://deno.land/std@0.95.0/fmt/colors.ts"
+    "colors": "https://deno.land/std@0.115.1/fmt/colors.ts"
   }
 }

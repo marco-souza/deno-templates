@@ -1,4 +1,5 @@
-import { Command, colors } from "@deps";
+import { Command } from "cliffy";
+import * as colors from "colors";
 
 interface IOptions {
   name: string;

@@ -2,7 +2,6 @@ scripts:
   start:
     desc: Start server
     cmd: ./mod.ts
-    imap: ./imports.json
     allow:
       - env
       - net
@@ -10,7 +9,6 @@ scripts:
   watch:
     desc: Start server
     cmd: ./mod.ts
-    imap: ./imports.json
     watch: true
     allow:
       - env

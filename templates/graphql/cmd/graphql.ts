@@ -1,4 +1,5 @@
-import { applyGraphQL, Context, gql, GQLError, Router } from "@deps";
+import { Context, Router } from "oak";
+import { applyGraphQL, gql, GQLError } from "oak-graphql";
 
 const types = gql`
   type User {

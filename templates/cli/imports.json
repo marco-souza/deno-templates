@@ -1,8 +1,7 @@
 {
   "imports": {
     "@cmd/": "./cmd/",
-    "@deps": "./deps.ts",
     "cliffy": "https://x.nest.land/cliffy@0.20.1/mod.ts",
-    "fmt/": "https://deno.land/std@0.115.1/fmt/"
+    "colors": "https://deno.land/std@0.115.1/fmt/colors.ts"
   }
 }

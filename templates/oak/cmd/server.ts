@@ -1,4 +1,4 @@
-import { Application, Router } from "@deps";
+import { Application, Router } from "oak";
 import { port, hostname } from "@settings";
 import { denoHandler, rootHandler } from "./handlers.ts";
 import { middlewares } from "./middlewares.ts";
