@@ -6,6 +6,8 @@ Repository with some deno project templates.
 
 - [[./templates/base][base]]
 - [[./templates/cli][cli]]
+- [[./templates/oak][oak]]
+- [[./templates/graphql][graphql]]
 
 ** Issues
 
