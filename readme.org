@@ -25,9 +25,10 @@ deno install --allow-net --allow-run --allow-env \
     https://deno.land/x/uai/mod.ts
 
 # create your project
-uai dg marco-souza/deno-templates/cli my-cli
 uai dg marco-souza/deno-templates/oak my-server
-uai dg marco-souza/deno-templates/fresh my-site
+
+# or also
+uai dg -t fresh my-site
 #+end_src
 
 Feel free to help me building it! 😄
