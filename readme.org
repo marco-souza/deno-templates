@@ -10,6 +10,20 @@ Repository with some deno project templates.
 - [[./fresh][fresh]]
 - [[./graphql][graphql]]
 
+
 ** Issues
 
 - `vscode deno ext` / `deno-lsp` doesn't suggests imports from `import_map`
+* Usage
+
+You can clone it using my utility CLI ([[https://github.com/marco-souza/uai][uai]])
+
+#+begin_src shell
+deno install --allow-net --allow-run --allow-env --import-map https://deno.land/x/uai/imports.json https://deno.land/x/uai/mod.ts
+
+uai dg marco-souza/deno-templates/cli my-cli
+uai dg marco-souza/deno-templates/oak my-server
+uai dg marco-souza/deno-templates/fresh my-site
+#+end_src
+
+Feel free to help me building it! 😄
