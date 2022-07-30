@@ -4,11 +4,11 @@ Repository with some deno project templates.
 
 * Templates
 
-- [[./templates/base][base]]
-- [[./templates/cli][cli]]
-- [[./templates/oak][oak]]
-- [[./templates/fresh][fresh]]
-- [[./templates/graphql][graphql]]
+- [[./base][base]]
+- [[./cli][cli]]
+- [[./oak][oak]]
+- [[./fresh][fresh]]
+- [[./graphql][graphql]]
 
 ** Issues
 
