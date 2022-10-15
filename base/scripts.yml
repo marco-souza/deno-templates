@@ -1,4 +1,0 @@
-scripts:
-  start:
-    desc: Start package
-    cmd: ./mod.ts

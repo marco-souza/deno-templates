@@ -1,5 +1,6 @@
 {
   "imports": {
+    "#/": "./",
     "colors": "https://deno.land/std@0.115.1/fmt/colors.ts"
   }
 }
